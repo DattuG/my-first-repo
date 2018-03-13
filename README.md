@@ -1,7 +1,7 @@
 # my-first-repo
 First Sample Repository
 
-#Links for demo apps
+# Links for demo apps
 
 https://dattu-mean-auth-app.herokuapp.com/
 
